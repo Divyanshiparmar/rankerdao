@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.background-img {
+    background-repeat: no-repeat;
+    opacity: 0.99;
+}
+
+.img {
+    position: absolute;
+    top: 52px;
+    left: 460px;
+}
