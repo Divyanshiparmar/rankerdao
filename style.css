@@ -5,10 +5,12 @@
 .background-img {
     background-repeat: no-repeat;
     opacity: 0.99;
+    background-attachment: fixed;
 }
 
 .img {
     position: absolute;
     top: 52px;
     left: 460px;
+    background-attachment: fixed;
 }
